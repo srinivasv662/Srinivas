@@ -1,2 +1,1 @@
-# Srinivas
-DataScience Assignments
+# Sn1
